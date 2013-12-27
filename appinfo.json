@@ -1,0 +1,22 @@
+{
+  "uuid": "90cf91d4-e797-4499-b3aa-3668a0487fc7",
+  "shortName": "A Better Bit",
+  "longName": "Just A Better Bit",
+  "companyName": "Josh Gordon (forked from Pebble)",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_binary_watch.png"
+      }
+    ]
+  }
+}
